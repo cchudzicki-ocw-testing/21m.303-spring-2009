@@ -13,7 +13,7 @@ related_resources_text: 'This section contains documents that could not be made 
   to screen reader software. A "#" symbol is used to denote such documents.
 
 
-  Score ([PDF](resources/mit21m_303s09_assn06_comp02_anon "Open in a new window.")){{<
+  Score ([PDF](/courses/21m-303-writing-in-tonal-forms-i-spring-2009/resources/mit21m_303s09_assn06_comp02_anon)){{<
   sup "#" >}}'
 resource_index_text: ''
 resourcetype: Video
