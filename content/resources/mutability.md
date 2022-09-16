@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -17,6 +19,7 @@ related_resources_text: 'This section contains documents that could not be made 
   sup "#" >}}'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Mutability '
 uid: bf333aab-2d59-9cd2-d28b-0cb6eba12af3
 video_files:
@@ -33,3 +36,4 @@ video_metadata:
 **Text author:** Percy Bysshe Shelley
 
 **Performers:** Janna Baty (voice), Daniel Curtis (piano)
+

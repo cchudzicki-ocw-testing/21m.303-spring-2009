@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides minuet models from the course instructor and a
+  link to a list of music resources.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials

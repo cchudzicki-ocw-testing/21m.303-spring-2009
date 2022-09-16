@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on composers, compositions, scores,
+  texts, and recordings used for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Listening and Scores

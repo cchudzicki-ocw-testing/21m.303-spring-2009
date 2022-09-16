@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -17,6 +19,7 @@ related_resources_text: 'This section contains documents that could not be made 
   sup "#" >}}'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Fancy Employed on Divine Subjects '
 uid: 35066c15-b71d-4158-966b-71940ce3ba03
 video_files:
@@ -33,3 +36,4 @@ video_metadata:
 **Text author:** Charles Lamb
 
 **Performers:** Janna Baty (voice), Daniel Curtis (piano)
+

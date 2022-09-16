@@ -1,5 +1,7 @@
 ---
 content_type: video_gallery
+description: This section provides information on the minuet exercises and composition
+  projects required for the course and examples of student work.
 is_media_gallery: true
 learning_resource_types:
 - Assignments
@@ -56,7 +58,7 @@ AUDIO RECORDINGS
 Anonymous MIT student
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 4daea391-27fd-c170-683d-b7d29ac8d6ab "PDF" %}})
+({{% resource_link 4daea391-27fd-c170-683d-b7d29ac8d6ab "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 [iTunes U (MP3 - 2.3MB)](https://itunes.apple.com/us/itunes-u/id354869194)  
@@ -69,7 +71,7 @@ Internet Archive ([MP3 - 2.3MB](http://www.archive.org/download/MIT21M.303S09/as
 Carrie Keach
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 5f201159-61ea-96bb-e4eb-768028854a65 "PDF" %}})
+({{% resource_link 5f201159-61ea-96bb-e4eb-768028854a65 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 [iTunes U (MP3 - 2.7MB)](https://itunes.apple.com/us/itunes-u/id354869194)  
@@ -95,7 +97,7 @@ Internet Archive ([MP3 - 3.6MB](http://www.archive.org/download/MIT21M.303S09/as
 Kathryn Shroyer
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 3c8986ab-d96a-6e65-1234-e966a5b9dce2 "PDF" %}})
+({{% resource_link 3c8986ab-d96a-6e65-1234-e966a5b9dce2 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 [iTunes U (MP3 - 3.5MB)](https://itunes.apple.com/us/itunes-u/id354869194)  
@@ -121,7 +123,7 @@ Internet Archive ([MP3 - 3.1MB](http://www.archive.org/download/MIT21M.303S09/as
 Stephanie Wu
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link e4247b06-0d26-4db9-d500-b0af5802a03b "PDF" %}})
+({{% resource_link e4247b06-0d26-4db9-d500-b0af5802a03b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 [iTunes U (MP3 - 5.1MB)](https://itunes.apple.com/us/itunes-u/id354869194)  

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, prerequisites, composition projects, textbooks and scores, the musicianship
+  lab, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

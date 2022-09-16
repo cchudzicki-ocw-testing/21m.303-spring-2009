@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -12,6 +14,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Dolores '
 uid: f19253dc-3cc0-5647-4fe7-ffe8cfc5fd4b
 video_files:
@@ -28,3 +31,4 @@ video_metadata:
 **Text author:** Algernon Charles Swinburne
 
 **Performers:** Janna Baty (voice), Daniel Curtis (piano)
+
